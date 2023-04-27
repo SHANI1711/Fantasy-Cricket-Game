@@ -4,9 +4,7 @@
 - ### In the game, the user's team is pitted against the computer's team, which is also randomly selected. The winner of the game is decided based on the total point value of the players in the user's team.
 - ### Fantasy Cricket Game is developed using Java Programming language. This game includes unit tests to ensure that the application functions as expected.
 
-## **User Interface**
-
-#
+# **User Interface**
 
 ### HomePage
 
@@ -50,7 +48,7 @@ Run command given below to run game:
 Java Main
 ```
 
-# Usage Instructions
+# **Usage Instructions**
 
 1. In this game, we will be given 100 credits.
 2. From this 100 credits, we have to buy 11 players from the total players available.
