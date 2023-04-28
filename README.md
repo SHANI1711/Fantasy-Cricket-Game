@@ -8,13 +8,23 @@
 
 ### HomePage
 
+<img width="803" alt="Screenshot 2023-04-27 at 12 01 09 PM" src="https://user-images.githubusercontent.com/70198866/234910645-b6d6294a-8c1e-46a5-bf69-7a7cebc8f006.png">
+
 ### User Details
+
+<img width="628" alt="Screenshot 2023-04-27 at 12 01 33 PM" src="https://user-images.githubusercontent.com/70198866/234910780-47c24105-48f7-4f75-8636-956cd9cee376.png">
 
 ### Player Options
 
+<img width="291" alt="Screenshot 2023-04-27 at 12 01 42 PM" src="https://user-images.githubusercontent.com/70198866/234910805-5c443967-655a-469d-9ec8-3f4c5c9835fd.png">
+
 ### Purchase Details
 
+<img width="614" alt="Screenshot 2023-04-27 at 12 03 04 PM" src="https://user-images.githubusercontent.com/70198866/234910855-eb3d8547-9577-45c2-a019-633c4c6a2d71.png">
+
 ### Winner Declaration
+
+<img width="609" alt="Screenshot 2023-04-27 at 12 08 55 PM" src="https://user-images.githubusercontent.com/70198866/234910885-cdc71368-b484-42d6-b5e2-c3ab69346204.png">
 
 # **Getting Started**
 
